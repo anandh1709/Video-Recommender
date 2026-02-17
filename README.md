@@ -30,7 +30,7 @@ It uses:
 ### 1️. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/video-recommender.git
+git clone https://github.com/anandh1709/video-recommender.git
 cd video-recommender
 ```
 
