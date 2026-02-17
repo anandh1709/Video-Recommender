@@ -19,9 +19,11 @@ It uses:
 ---
 
 ## 📂 Project Structure
+```bash
 ├── Video Recommender.ipynb # Main notebook containing implementation)
 ├── Dataset.csv # Dataset used for training and recommendations
 ├── README.md # Project documentation
+```
 
 ---
 
